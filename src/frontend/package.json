@@ -24,7 +24,7 @@
     "@fluentui/react-components": "9.60.0",
     "@fluentui/react-icons": "2.0.279",
     "@fluentui/react-theme": "9.1.24",
-    "@vitejs/plugin-react": "4.4.1",
+    "@vitejs/plugin-react": "4.7.0",
     "clsx": "2.1.1",
     "copy-to-clipboard": "^3.3.3",
     "react": "19.1.0",
@@ -40,7 +40,7 @@
     "remark-math": "^6.0.0",
     "remark-parse": "^11.0.0",
     "remark-supersub": "^1.0.0",
-    "vite": "6.3.4",
+    "vite": "6.4.5",
     "prismjs": "1.30.0"
   },
   "devDependencies": {
